@@ -8,7 +8,9 @@ video {
     z-index:-100;
   }
 h1{color: #070707;
-font-weight:bolder; }
+font-weight:bolder;
+ }
+
 
 .weather-app {
     background-color: rgba(242, 242, 242, 0.5);
@@ -36,3 +38,7 @@ border: none;
 border-radius: 10px;
 color: #f2f2f2;
 margin-left: 6px;}
+
+.data{display:flex;
+justify-content: space-between;
+}
